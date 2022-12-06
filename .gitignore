@@ -12,6 +12,7 @@ __pycache__
 *.exe
 *.zip
 *.ttf
+crypto.key
 
 # Qt-es
 object_script.*.Release
